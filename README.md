@@ -15,3 +15,5 @@ SO THAT our own site is optimized for search engines
 I made a marketing tool landing page. With the knowledge I have gained I used html, css ad github pages to deploy the site. <br/>
 
 **before**
+
+Deployed Link: https://trentgeraty.github.io/Assignment1/
